@@ -1,0 +1,101 @@
+﻿id,year,date,make,model,price,mileage,color,engine_size
+1,,15/03/19,Toyota,Camry,$15500,12000,Red,2.5L
+2,2016,10/12/16,Honda,Accord,"€ 18,700",45000,Blue,2.0L
+3,2017,"""25/06/2017""",Ford,F-150,$22800,75000,Black,3.5L
+4,2014,25/06/14,Chevrolet,Malibu,"€ 12,900",,Silver,2.0L
+5,,05/09/22,Toyota,Corolla,16000,62000,White,1.8L
+6,2015,30/11/15,Hyundai,Sonata,$13200,89000,Gray,2.4L
+7,,18/04/20,Ford,Explorer,,$53000,Blue,3.0L
+8,2018,22/07/23,Jeep,Wrangler,"€ 28,500",37000,Green,3.6L
+9,,Invalid Date,Nissan,Altima,$19400,90000,Black,2.5L
+10,2019,12/08/17,Honda,Civic,18500,41000,Red,1.5L
+11,,09/01/22,Toyota,RAV4,$20800,68000,White,2.5L
+12,2016,20/05/21,Chevrolet,Equinox,"€ 17,600",56000,Silver,1.5L
+13,,30/10/20,Ford,Mustang,$24300,35000,Blue,5.0L
+14,2017,"""15/06/2017""",Hyundai,Elantra,15000,48000,Black,2.0L
+15,2013,15/11/19,Toyota,Highlander,"€ 14,200",87000,Gray,3.5L
+16,,07/07/21,Honda,Fit,$11900,72000,White,1.5L
+17,2019,25/03/22,Jeep,Grand Cherokee,$33600,41000,Red,3.6L
+18,2015,"""02/05/2015""",Nissan,Rogue,"€ 16,300",62000,Silver,2.5L
+19,,28/08/18,Chevrolet,Cruze,$14500,59000,Blue,1.4L
+20,2016,02/04/21,Toyota,Tacoma,"€ 23,400",,Red,3.5L
+21,,15/01/21,Hyundai,Accent,$10700,84000,Black,1.6L
+22,2014,Invalid Date,Ford,Escape,17200,57000,Gray,2.0L
+23,2017,10/06/19,Jeep,Compass,"€ 19,800",49000,Green,2.4L
+24,,08/11/22,Nissan,Maxima,$21900,67000,White,3.5L
+25,2018,05/04/23,Chevrolet,Tahoe,"€ 33,200",41000,Black,5.3L
+26,,17/09/20,Honda,CR-V,$26500,48000,Silver,1.5L
+27,2015,Invalid Date,Toyota,Yaris,12000,55000,Blue,1.5L
+28,2019,28/02/22,Hyundai,Santa Fe,"€ 29,600",38000,Red,2.0L
+29,,14/06/18,Jeep,Cherokee,$27400,44000,Gray,3.2L
+30,2016,30/09/21,Ford,Fusion,"€ 15,900",72000,White,2.5L
+31,,25/11/21,Nissan,Pathfinder,$29800,56000,Black,3.5L
+32,2017,07/03/20,Chevrolet,Impala,13500,49000,Red,3.6L
+33,2014,"""25/06/2014""",Honda,Pilot,"€ 22,400",62000,Silver,3.5L
+34,,02/08/19,Toyota,4Runner,$31200,35000,Blue,4.0L
+35,2016,05/06/22,Hyundai,Tucson,"€ 18,300",54000,Green,2.0L
+36,,01/12/20,Ford,Edge,$26900,48000,Red,2.7L
+37,2018,Invalid Date,Jeep,Grand Wagoneer,18500,42000,Black,6.4L
+38,2015,10/10/19,Nissan,Sentra,"€ 14,600",68000,Gray,1.8L
+39,,18/05/22,Chevrolet,Colorado,$29400,59000,White,3.6L
+40,2016,14/02/21,Toyota,Sequoia,"€ 38,200",36000,Silver,5.7L
+41,,06/05/19,Hyundai,Genesis,$34500,43000,Blue,3.8L
+42,2014,Invalid Date,Ford,Taurus,14200,50000,Green,3.5L
+43,2017,03/01/20,Jeep,Liberty,"€ 20,900",47000,Red,3.7L
+44,,22/08/20,Nissan,Murano,$23600,51000,Black,3.5L
+45,2018,10/03/23,Chevrolet,Camaro,"€ 31,700",40000,White,6.2L
+46,,12/10/21,Honda,Crosstour,$18700,61000,Silver,2.4L
+47,2016,Invalid Date,Toyota,Avalon,17500,54000,Blue,3.5L
+48,2013,20/07/19,Hyundai,Equus,"€ 23,900",59000,Green,5.0L
+49,,05/02/22,Ford,Expedition,$35200,45000,Red,3.5L
+50,2019,30/05/22,Jeep,Commander,"€ 39,800",34000,Black,5.7L
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
